@@ -2,51 +2,45 @@
 
 這是一個簡單的應用程式,主要有三個頁面:主頁、設定頁和關於頁。
 
+
+## 進入以及登入頁面
+<div style="display:flex; gap:30px">
+    <img src="./pageImg/loginPage1.png" alt="進入頁面">
+    <img src="./pageImg/loginPage2.png" alt="登入頁面">
+</div>
+
 ## 主頁
-
-主頁是應用的入口,在這裡你可以看到最新的內容更新和熱門項目。點擊項目可以查看詳情。
-
-![登入頁面](./pageImg/loginPage1.png)
-
 **操作流程**:
 
-1. 打開應用程序
-2. 主頁會自動加載最新內容
-3. 滾動瀏覽或點擊項目查看詳情
-4. 在詳情頁可以對項目進行評論、分享等操作
+1. 主頁包含設定、搜尋、兌換、使用者資訊以及餐廳資訊
 
-![登入頁面](./pageImg/loginPage2.png)
+<div style="display:flex; gap:30px">
+    <img src="./pageImg/mainPageHome.png" alt="主頁、餐廳資訊">
+    <img src="./pageImg/mainPageSearch.png" alt="搜尋">
+    <img src="./pageImg/mainPageGift.png" alt="兌換">
+    <img src="./pageImg/mainPageUserInfo.png" alt="使用者設定">
+</div>
 
+##餐廳資訊##
 **操作流程**:
+1. 通過點選主頁中的餐廳資訊來獲得詳細的資訊
 
-1. 打開應用程序
-2. 主頁會自動加載最新內容
-3. 滾動瀏覽或點擊項目查看詳情
-4. 在詳情頁可以對項目進行評論、分享等操作
-## 設定頁
+![登入頁面](./pageImg/restaurantInfo.png)
 
-在設定頁,你可以根據自己的喜好調整應用程式的一些參數,比如主題顏色、通知方式等。
-
-![設定頁截圖](設定頁截圖.png)
-
+##兌換介面##
 **操作流程**:
+1. 點選下方禮物進入，可以兌換商品
+<div style="display:flex; gap:30px">
+    <img src="./pageImg/converted.png" alt="已兌換">
+    <img src="./pageImg/notConvert.png" alt="未兌換">
+</div>
 
-1. 點擊頁面右上角的設定按鈕
-2. 進入設定頁面
-3. 選擇想要修改的選項,按提示操作
-4. 設定完成後點擊返回按鈕,回到主頁
-
-## 關於頁
-
-關於頁展示了應用程式的版本信息、開發團隊以及聯繫方式。如果有任何反饋意見,可以在此提交。
-
-![關於頁截圖](關於頁截圖.png)
-
+##設定介面##
 **操作流程**:
+1. 點選下方人物圖示進入，可以設定各個功能並修改使用者資訊
+<div style="display:flex; gap:30px">
+    <img src="./pageImg/settingPage.png" alt="設定頁面">
+    <img src="./pageImg/userInfo.png" alt="使用者資訊">
+    <img src="./pageImg/edituserInfo.png" alt="編輯使用者資訊">
+</div>
 
-1. 點擊頁面右上角的菜單按鈕
-2. 選擇"關於"進入關於頁面
-3. 查看應用版本和團隊信息
-4. 如有反饋,點擊"提交反饋"按鈕填寫反饋內容並提交
-
-以上就是應用程式的主要頁面及其操作流程,使用起來非常簡單。如果有任何其他疑問,歡迎提出!
