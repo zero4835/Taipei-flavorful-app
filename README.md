@@ -1,8 +1,4 @@
 # Taipei flavorful App
-
-這是一個簡單的應用程式,主要有三個頁面:主頁、設定頁和關於頁。
-
-
 ## 進入以及登入頁面
 <div style="display:flex; gap:30px">
     <img src="./pageImg/loginPage1.png" alt="進入頁面">
