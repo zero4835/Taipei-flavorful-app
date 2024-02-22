@@ -44,6 +44,6 @@
 <div style="display:flex; gap:30px">
     <img src="./pageImg/settingPage.png" alt="設定頁面">
     <img src="./pageImg/userInfo.png" alt="使用者資訊">
-    <img src="./pageImg/edituserInfo.png" alt="編輯使用者資訊">
+    <img src="./pageImg/editUserInfo.png" alt="編輯使用者資訊">
 </div>
 
