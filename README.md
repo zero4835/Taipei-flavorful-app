@@ -1,4 +1,17 @@
 # Taipei flavorful App
+
+## 市場需求
+![市場需求](./pageImg/marketDemand.png)
+
+## 服務對象
+![服務對象](./pageImg/serviceObject.png)
+
+## 解決方案
+![解決方案](./pageImg/sol.png)
+
+
+
+
 ## 進入以及登入頁面
 <div style="display:flex; gap:30px">
     <img src="./pageImg/loginPage1.png" alt="進入頁面">
