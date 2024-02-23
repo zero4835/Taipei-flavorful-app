@@ -9,7 +9,8 @@
 ## 解決方案
 ![解決方案](./pageImg/sol.png)
 
-
+## 商品可行性與商機
+![解決方案](./pageImg/productCommerce.png)
 
 
 ## 進入以及登入頁面
