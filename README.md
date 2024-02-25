@@ -61,3 +61,16 @@
     <img src="./pageImg/editUserInfo.png" alt="編輯使用者資訊">
 </div>
 
+## 投票介面
+**操作流程**:
+1. 點選餐廳進行投票
+<div style="display:flex; gap:30px">
+    <img src="./pageImg/votingPage.png" alt="投票頁面">
+</div>
+
+## 訊息點餐介面
+**操作流程**:
+1. 點選餐廳並利用訊息進行點餐
+<div style="display:flex; gap:30px">
+    <img src="./pageImg/orederMessage.png" alt="點餐介面">
+</div>
