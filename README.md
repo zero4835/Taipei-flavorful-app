@@ -12,6 +12,8 @@
 ## 商品可行性與商機
 ![解決方案](./pageImg/productCommerce.png)
 
+## 系統架構
+![系統架構](./pageImg/struc.jpg)
 
 ## 進入以及登入頁面
 <div style="display:flex; gap:30px">
