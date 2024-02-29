@@ -1,16 +1,14 @@
 ## 架構介紹
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n7AcgViNcEE?si=5VMVYr7bOqZdk50K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![YouTube Video](https://img.youtube.com/vi/n7AcgViNcEE/0.jpg)](https://www.youtube.com/watch?v=n7AcgViNcEE)
 
 ## 行人模式介紹
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w2zwFS0TZk8?si=JqC8p4FTHRV9xcus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![YouTube Video](https://img.youtube.com/vi/w2zwFS0TZk8/0.jpg)](https://www.youtube.com/watch?v=w2zwFS0TZk8)
 
 ## 自行車模式介紹
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7aRuo1aD_sA?si=PMuT26-u9EDwVRs9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![YouTube Video](https://img.youtube.com/vi/7aRuo1aD_sA/0.jpg)](https://www.youtube.com/watch?v=7aRuo1aD_sA)
 
 ## 商家模式介紹
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aihkjuZlq4g?si=EEWV0mB3zx3KlS_X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+[![YouTube Video](https://img.youtube.com/vi/aihkjuZlq4g/0.jpg)](https://www.youtube.com/watch?v=aihkjuZlq4g)
 
 ## 登入畫面
 
